@@ -1,7 +1,7 @@
 // Removed unused React import
 import { Card, CardBody, CardHeader, Button, Divider } from "@heroui/react";
 import { Icon } from "@iconify/react";
-import logo from "./assets/jeiel.png";
+import logo from "/src/assets/jeiel.png";
 
 export default function App() {
   return (
