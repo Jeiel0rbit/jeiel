@@ -33,7 +33,7 @@ Os religiosos, seguem os princípios deixados por uma religião específica.
           >
             Contato
           </Button>
-          <a href="https://jeiel0rbit.github.io/jeiel-lima-miranda/" target="_blank" rel="noopener noreferrer">
+          <a href="https://cv-jeiel.vercel.app/" target="_blank" rel="noopener noreferrer">
           <Button
             variant="bordered"
             startContent={<Icon icon="lucide:file-text" />}
